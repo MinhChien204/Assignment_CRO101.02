@@ -1,0 +1,116 @@
+{
+  "plants": [
+    {
+      "id": "1",
+      "anh": "https://m.evbi.vn/Uploads/images/image-20230421103148-2.png",
+      "ten": "Cây đồng tiền",
+      "gia": "250000",
+      "trangthai": true,
+      "phanloai": "cây cảnh",
+      "kichthuoc": "100x60"
+    },
+    {
+      "id": "2",
+      "anh": "https://m.evbi.vn/Uploads/images/image-20230421103233-3.png",
+      "ten": "Cây phỷ thúy",
+      "gia": "270000",
+      "trangthai": true,
+      "phanloai": "cây cảnh",
+      "kichthuoc": "100x80"
+    },
+    {
+      "id": "3",
+      "anh": "https://m.evbi.vn/Uploads/images/image-20230421103250-4.png",
+      "ten": "Cây kim tiền",
+      "gia": "270000",
+      "trangthai": true,
+      "phanloai": "cây cảnh",
+      "kichthuoc": "100x80"
+    }
+  ],
+  "boncay": [
+    {
+      "id": "1",
+      "anh": "https://bizweb.dktcdn.net/100/275/164/products/img-1830-2.jpg?v=1582343188920",
+      "ten": "Chậu gốm sứ",
+      "gia": "300000",
+      "trangthai": true,
+      "kichthuoc": "100x50"
+    },
+    {
+      "id": "2",
+      "anh": "https://ecohub.vn/wp-content/uploads/2022/06/chau-trong-cay-tai-che-tu-vo-hop-sua.jpg",
+      "ten": "Chậu tái chế",
+      "gia": "200000",
+      "trangthai": true,
+      "kichthuoc": "100x50"
+    }
+  ],
+  "cart": [],
+  "users": [
+    {
+      "id": "1",
+      "username": "minhchien",
+      "password": "123",
+      "hoten": "Nguyễn Minh Chiến",
+      "email": "mchien2204@gmail.com",
+      "sdt": "0438583423",
+      "diachi": "Quỳnh Phụ,Thái Bình"
+    },
+    {
+      "username": "mchien204",
+      "password": "123456",
+      "hoten": "minh chien",
+      "email": "mchien@gmail.com",
+      "diachi": "thai binh",
+      "sdt": "0325501876",
+      "id": "98e2"
+    },
+    {
+      "id": "aab2",
+      "hoten": "Nguyen Minh Chien",
+      "email": "c1@gmail.com",
+      "username": "minhchien",
+      "password": "123"
+    },
+    {
+      "username": "minhchien2004",
+      "password": "123456",
+      "hoten": "Nguyen Minh Chien",
+      "email": "minhchien@gmail.com",
+      "diachi": "nam tu liem , ha noi",
+      "sdt": "0325502467",
+      "id": "db74"
+    }
+  ],
+  "orders": [
+    {
+      "id": "7028",
+      "thoigian": "2024-04-10 00:41:09",
+      "trangthai": 1,
+      "ptttt": "Thanh toán khi nhận hàng",
+      "thongtin": {
+        "hoten": "minh chien",
+        "email": "chien@gmail.com",
+        "diachi": "nam tu liem , ha noi",
+        "sdt": "0325502467"
+      },
+      "productOrder": [
+        {
+          "soluong": 3,
+          "itemCart": {
+            "id": "1",
+            "anh": "https://m.evbi.vn/Uploads/images/image-20230421103148-2.png",
+            "ten": "Cây đồng tiền",
+            "gia": "250000",
+            "trangthai": true,
+            "phanloai": "cây cảnh",
+            "kichthuoc": "100x60"
+          },
+          "id": "278f"
+        }
+      ]
+    }
+  ],
+  "productOrder": []
+}

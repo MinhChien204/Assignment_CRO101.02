@@ -1,5 +1,7 @@
 package com.assignment_ph39754
 
+import com.oblador.vectoricons.VectorIconsPackage;
+
 import android.app.Application
 import com.facebook.react.PackageList
 import com.facebook.react.ReactApplication
